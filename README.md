@@ -22,7 +22,7 @@ Generating Executable:
     - You can use 'pyinstaller --version' to check it's status
   2. Make executable
     - Once installation of pyinstaller has been confirmed, run the commnad 'pyinstaller main.py'
-    - This will create both a main.spec and a 'dist' directory that contains the executable and libraries
+    - This will create both a main.spec and a 'dist' directory that contains the executable, 'main.exe', and libraries
 
 Instructions:
   1. When the window appears, there should not be any data shown. First, the user must give a folder where the data is located.
